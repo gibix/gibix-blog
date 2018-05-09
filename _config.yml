@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title:  gibix
+url:  http://gibix.github.io
+
+author: gibix
+
+plugins: [github-pages]
