@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title:  gibix
+description: Gsoc student, rust, gentoo and random stuff.
 url:  http://gibix.github.io
 
 author: gibix
