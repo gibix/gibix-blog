@@ -2,6 +2,7 @@
 layout: post
 title: "Gsoc week 1 report"
 tags: [ gsoc, gentoo, rust, report ]
+category: Gsoc
 ---
 Here the report of my first week of code for the Google Summer of Code.
 

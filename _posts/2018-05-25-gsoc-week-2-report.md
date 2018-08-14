@@ -2,6 +2,7 @@
 layout: post
 title: "Gsoc week 2 report"
 tags: [ gsoc, gentoo, rust, report ]
+category: Gsoc
 ---
 
 ## Cargo-ebuild

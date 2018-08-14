@@ -2,6 +2,7 @@
 layout: post
 title: "Make Rust a first class citizen in Gentoo"
 tags: [ gsoc, gentoo, rust ]
+category: Gsoc
 ---
 
 Here follow an abstract of my gsoc proposal and after it some further considerations.

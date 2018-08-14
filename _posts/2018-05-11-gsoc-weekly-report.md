@@ -2,6 +2,7 @@
 layout: post
 title: "Gsoc week -1 report"
 tags: [ gsoc, gentoo, rust, report ]
+category: Gsoc
 ---
 # My activities of the week:
 
